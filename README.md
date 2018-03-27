@@ -2,7 +2,7 @@
 A recurrent deep neural network for human activity recognition, using the KTH dataset as an example.
 
 ## prerequisites
-This code contains OS commands for linux. IT also uses keras with tensorflow, and ffmpeg. I have not tested the code on Python 3.
+This code contains OS commands for linux. It also uses keras with tensorflow, and ffmpeg. I have not tested the code on Python 3.
 
 ## Instructions
 After downloading the KTH dataset:
